@@ -5,7 +5,7 @@
   "description": "Show up videos based on keywords in URL",
   "permissions": ["activeTab", "storage", "identity"],
   "content_security_policy": {
-    "extension_pages": "script-src 'self'; object-src 'self'; frame-src https://www.youtube.com https://*.youtube.com;"
+    "extension_pages": "script-src 'self'; object-src 'self'; frame-src https://www.youtube.com https://*.youtube.com http://box5193.temp.domains http://*.temp.domains"
   },
   "action": {
     "default_icon": {

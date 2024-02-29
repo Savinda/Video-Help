@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function () {
       const videos = [
           {
               "keywords": ["google", "search", "engine"],
-              "videoUrl": "https://www.youtube.com/embed/5ET7WouzH9I"
+              "videoUrl": "http://box5193.temp.domains/~glofilin/wp-content/uploads/2024/02/Create-a-new-PR-SSP.mp4"
           },
           {
               "keywords": ["admin", "administration"],
